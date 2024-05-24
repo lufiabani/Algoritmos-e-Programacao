@@ -1,0 +1,299 @@
+Aqui estão as cidades de Santa Catarina acompanhadas do número de habitantes:
+
+Joinville - 590,466
+Florianópolis - 508,826
+Blumenau - 361,855
+São José - 246,129
+Itajaí - 226,887
+Chapecó - 217,124
+Palhoça - 174,109
+Criciúma - 217,075
+Jaraguá do Sul - 176,843
+Lages - 161,213
+Brusque - 131,303
+Balneário Camboriú - 143,833
+Tubarão - 106,356
+Camboriú - 85,424
+Navegantes - 87,108
+São Bento do Sul - 84,748
+Concórdia - 73,793
+Biguaçu - 68,791
+Itapema - 72,899
+Caçador - 78,514
+Rio do Sul - 70,589
+Gaspar - 72,044
+Araranguá - 70,234
+Indaial - 74,926
+Içara - 63,863
+Videira - 52,896
+Mafra - 57,889
+Canoinhas - 52,607
+São Francisco do Sul - 54,152
+Imbituba - 45,662
+Xanxerê - 50,923
+Tijucas - 51,859
+Guaramirim - 47,058
+Timbó - 48,888
+Barra Velha - 33,492
+Araquari - 32,313
+São Miguel do Oeste - 40,703
+Laguna - 45,578
+Curitibanos - 42,321
+Rio Negrinho - 47,774
+Campos Novos - 31,849
+Pomerode - 33,598
+Braço do Norte - 38,127
+Penha - 28,628
+Fraiburgo - 32,530
+Porto União - 32,070
+São João Batista - 29,465
+Xaxim - 30,696
+Forquilhinha - 30,528
+Itapoá - 25,965
+Joaçaba - 29,827
+Sombrio - 29,249
+Garopaba - 24,307
+Maravilha - 23,760
+Porto Belo - 23,894
+Santo Amaro da Imperatriz - 23,171
+Balneário Piçarras - 23,137
+Ituporanga - 23,009
+São Joaquim - 23,661
+Bombinhas - 21,929
+São Lourenço do Oeste - 20,759
+Guabiruba - 23,674
+Capivari de Baixo - 21,937
+Orleans - 22,549
+Capinzal - 21,894
+Itaiópolis - 21,178
+Pinhalzinho - 22,453
+Herval d'Oeste - 21,200
+Urussanga - 21,589
+Jaguaruna - 20,889
+Schroeder - 20,853
+Presidente Getúlio - 20,845
+Ibirama - 20,102
+Três Barras - 20,504
+Papanduva - 19,516
+Seara - 20,312
+Garuva - 17,801
+Morro da Fumaça - 18,733
+Taió - 19,689
+Abelardo Luz - 17,784
+Otacílio Costa - 17,965
+Cocal do Sul - 17,467
+Massaranduba - 17,874
+Pouso Redondo - 17,465
+Ilhota - 16,805
+Governador Celso Ramos - 16,731
+Itapiranga - 16,781
+Balneário Rincão - 17,659
+Balneário Arroio do Silva - 16,822
+Correia Pinto - 16,884
+Balneário Gaivota - 16,240
+Palmitos - 16,564
+Santa Cecília - 16,287
+Corupá - 16,136
+Dionísio Cerqueira - 15,860
+Balneário Barra do Sul - 16,230
+Lauro Müller - 15,758
+São José do Cedro - 15,405
+Nova Trento - 14,871
+Siderópolis - 14,966
+Nova Veneza - 14,855
+São Ludgero - 14,797
+Turvo - 14,566
+Passo de Torres - 13,877
+Sangão - 13,625
+Lontras - 13,755
+Canelinha - 13,720
+Rodeio - 13,572
+Campo Alegre - 13,587
+Gravatal - 13,371
+Imaruí - 13,469
+Luiz Alves - 13,440
+Lebon Régis - 13,048
+Antônio Carlos - 13,384
+Faxinal dos Guedes - 12,801
+Quilombo - 12,482
+Agrolândia - 12,297
+Cunha Porã - 12,217
+Rio dos Cedros - 11,888
+Urubici - 11,613
+Guaraciaba - 11,389
+Ponte Serrada - 11,575
+Jacinto Machado - 11,038
+Catanduvas - 11,084
+Benedito Novo - 10,882
+Alfredo Wagner - 10,788
+Coronel Freitas - 10,772
+Irineópolis - 10,436
+São Carlos - 10,648
+Saudades - 10,212
+Irani - 9,840
+Pescaria Brava - 9,813
+Mondaí - 9,622
+Apiúna - 9,470
+Santa Rosa do Sul - 9,304
+Campo Erê - 9,149
+Iporã do Oeste - 9,051
+São Domingos - 8,902
+Monte Carlo - 8,677
+Paulo Lopes - 8,680
+Armazém - 8,703
+Treze Tílias - 8,509
+São José do Cerrito - 8,262
+São João do Sul - 8,120
+Descanso - 8,071
+Guatambu - 8,066
+Bom Retiro - 8,078
+Ascurra - 8,068
+Anita Garibaldi - 7,961
+Praia Grande - 7,892
+Tangará - 7,819
+Santa Terezinha - 7,
+
+661
+Laurentino - 7,601
+Ipumirim - 7,487
+Maracajá - 7,319
+Rio do Oeste - 7,204
+Monte Castelo - 7,124
+Ipuaçu - 7,105
+Palma Sola - 7,083
+Salete - 7,031
+Major Vieira - 6,914
+Treze de Maio - 6,895
+Timbó Grande - 6,797
+Trombudo Central - 6,768
+Campo Belo do Sul - 6,744
+Itá - 6,658
+Ouro - 6,512
+Meleiro - 6,380
+Aurora - 6,329
+Águas Mornas - 6,287
+Petrolândia - 6,260
+Água Doce - 6,195
+Rio do Campo - 6,111
+Caibi - 6,058
+São João do Oeste - 6,046
+Grão-Pará - 6,014
+Rio das Antas - 5,918
+Vidal Ramos - 5,892
+São Cristóvão do Sul - 5,851
+Agronômica - 5,844
+Águas de Chapecó - 5,834
+José Boiteux - 5,804
+Imbuia - 5,714
+Anchieta - 5,664
+Bela Vista do Toldo - 5,600
+Luzerna - 5,548
+São Pedro de Alcântara - 5,537
+Piratuba - 5,422
+Timbé do Sul - 5,402
+Vitor Meireles - 5,324
+Botuverá - 5,303
+Angelina - 5,302
+Nova Erechim - 5,288
+Tunápolis - 5,258
+Erval Velho - 5,256
+Rio Fortuna - 5,232
+Guarujá do Sul - 5,141
+Romelândia - 5,140
+Cordilheira Alta - 5,126
+Riqueza - 5,120
+Caxambu do Sul - 5,072
+Ipira - 5,060
+Vargem Bonita - 5,030
+Lindóia do Sul - 4,980
+Nova Itaberaba - 4,915
+São João do Itaperiú - 4,907
+Ponte Alta - 4,860
+Salto Veloso - 4,815
+Arabutã - 4,803
+Jaborá - 4,743
+Paraíso - 4,734
+Witmarsum - 4,726
+Pedras Grandes - 4,684
+Dona Emma - 4,682
+Modelo - 4,624
+Passos Maia - 4,579
+Bom Jardim da Serra - 4,572
+Braço do Trombudo - 4,564
+Iraceminha - 4,541
+Zortéa - 4,509
+Treviso - 4,482
+Xavantina - 4,454
+Doutor Pedrinho - 4,439
+Vargeão - 4,389
+Saltinho - 4,379
+Anitápolis - 4,371
+Arroio Trinta - 4,371
+Bocaina do Sul - 4,362
+Pinheiro Preto - 4,312
+Calmon - 4,298
+São Martinho - 4,248
+Entre Rios - 4,243
+Leoberto Leal - 4,218
+Cerro Negro - 4,194
+Serra Alta - 4,172
+Rancho Queimado - 4,155
+Ibicaré - 4,153
+Atalanta - 4,144
+Major Gercino - 4,134
+Galvão - 4,111
+Ponte Alta do Norte - 4,107
+Bandeirante - 4,088
+Morro Grande - 4,069
+Peritiba - 4,060
+Princesa - 4,052
+Chapadão do Lageado - 4,048
+Planalto Alegre - 4,032
+São Bonifácio - 4,028
+Iomerê - 4,015
+Águas Frias - 4,013
+Sul Brasil - 4,003
+Celso Ramos - 3,985
+Bom Jesus - 3,973
+União do Oeste - 3,963
+Matos Costa - 3,946
+São Bernardino - 3,945
+Formosa do Sul - 3,934
+Belmonte - 3,905
+Urupema - 3,873
+Novo Horizonte - 3,869
+Vargem - 3,864
+Capão Alto - 3,843
+Abdon Batista - 3,833
+Santa Terezinha do Progresso - 3,829
+Palmeira - 3,829
+Jupiá - 3,802
+Mirim Doce - 3,802
+Arvoredo - 3,781
+Brunópolis - 3,779
+Santa Helena - 3,778
+Frei Rogério - 3,777
+Rio Rufino - 3,776
+Tigrinhos - 3,774
+Presidente Nereu - 3,771
+Ermo - 3,748
+Lacerdópolis - 3,747
+Painel - 3,745
+Bom Jesus do Oeste - 3,739
+Marema - 3,738
+Ouro Verde - 3,729
+Santa Rosa de Lima - 3,709
+Irati - 3,706
+Coronel Martins - 3,705
+Ibiam - 3,700
+Cunhataí - 3,695
+Paial - 3,694
+Alto Bela Vista - 3,690
+Flor do Sertão - 3,679
+São Miguel da Boa Vista - 3,673
+Macieira - 3,654
+Jardinópolis - 3,652
+Lajeado Grande - 3,640
+Presidente Castello Branco - 3,634
+Barra Bonita - 3,633
+Santiago do Sul - 3,625
